@@ -1,0 +1,7 @@
+hdf5storage==0.1.19
+imblearn==0.0
+matplotlib==3.8.4
+numpy==2.2.1
+scikit_learn==1.4.2
+torch==2.3.1
+tqdm==4.66.4
