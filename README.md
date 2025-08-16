@@ -24,4 +24,15 @@ This is an application of the Vision Transformer for brain tumor detection throu
 * **vit/** - Contains the ViT model used and the script used to run the hyperparameter optimization.
 
 ## Results
-:dart: All the results obtained from the tests are explained in the following paper: [Vision Transformer for Brain Tumor Detection Using Hyperspectral Images with Reduced Spectral Bands]().
+:dart: All the results obtained from the tests are explained in the following paper: [Vision Transformer for Brain Tumor Detection Using Hyperspectral Images with Reduced Spectral Bands](https://www.doi.org/10.1109/ACCESS.2025.3588001).
+
+### Citation
+```bibtex
+@article{Ragusa2025,
+  author={Ragusa, Domenico and Gazzoni, Marco and Torti, Emanuele and Marenzi, Elisa and Leporati, Francesco},
+  journal={IEEE Access}, 
+  title={Vision Transformer for Brain Tumor Detection Using Hyperspectral Images With Reduced Spectral Bands}, 
+  year={2025},
+  volume={13},
+  pages={121704-121719},
+  doi={10.1109/ACCESS.2025.3588001}}
